@@ -1,0 +1,7 @@
+SetGuess {Guess}
+SetGuess i choose {Guess}
+SetGuess choose {Guess}
+
+GetResult what is the result
+GetResult result
+GetResult yes

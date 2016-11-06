@@ -1,0 +1,25 @@
+{
+  "intents": [
+    
+    {
+      "intent": "SetGuess",
+      "slots": [
+        {
+          "name": "Guess",
+          "type": "LIST_OF_GUESSES"
+        }
+      ]
+      
+    },
+    
+    {
+      "intent": "GetResult"
+    },
+    
+    {
+      "intent": "AMAZON.HelpIntent"
+   	}
+    
+  ]
+
+}
